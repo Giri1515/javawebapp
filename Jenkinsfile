@@ -15,10 +15,10 @@ pipeline {
 		     echo "this isb test"
 			}
 			}
-		/* stage('Production'){
+		 stage('Production'){
 		steps {
       echo "Deploying in Prod"
 		}
- } */
+ } 
  }
 }
